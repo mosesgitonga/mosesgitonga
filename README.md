@@ -28,4 +28,26 @@ Am currently an ALX AFRICA Software engineering student.<br>Ask me anything abou
 ---
 [![](https://visitcount.itsvg.in/api?id=mosesgitonga&icon=0&color=0)](https://visitcount.itsvg.in)
 
+import requests
+
+def get_visitors(username):
+    url = "https://api.github.com/users/{}/received_events".format(username)
+    response = requests.get(url)
+    if response.status_code == 200:
+        events = response.json()
+        visitors = []
+        for event in events:
+            if event["type"] == "WatchEvent":
+                visitors.append(event["actor"]["login"])
+        return visitors
+    else:
+        print("Error: {} {}".format(response.status_code, response.reason))
+
+if __name__ == "__main__":
+    username = input("Enter your GitHub username: ")
+    visitors = get_visitors(username)
+    print("The following people have visited your GitHub profile:")
+    for visitor in visitors:
+        print(visitor)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
