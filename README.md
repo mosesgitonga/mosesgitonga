@@ -1,5 +1,5 @@
 # 💫 About Me:
-Am currently an ALX Software engineering student.<br>Ask me anything about c, Python, linux Shell scripting, sql, html, css, bash and javascript.<br>Am open to opportunities in Software Engineering.
+Am currently an ALX Software engineering student.<br>Ask me anything about c, Python,  linux Shell scripting, sql, html, css, bash and javascript.<br>Am open to opportunities in Software Engineering.
 
 
 # 💻 Tech Stack:
