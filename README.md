@@ -18,7 +18,9 @@
 - 💬 Ask me about **Python, C, Javascript, Bash**
 
 - 📫 How to reach me **infosec947@gmail.com**
-<p align="left"> <img src="https://i.gifer.com/6tXM.gif" alt="mosesgitonga" /> </p>
+
+
+<p align="left"> <img src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.gif" alt="mosesgitonga"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
