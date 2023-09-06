@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Unittest**
 
-- 👯 I’m looking to collaborate on projects to do with **Network programming, Malware softwares, and AI**
+
+- 👯 I’m looking to collaborate on projects to do with **Network programming, web development and AI**
 
 - 💬 Ask me about **Python, C, Javascript, Bash**
 
