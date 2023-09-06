@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **software engineering**
 
-- 👯 I’m looking to collaborate on projects to do with **Network programming, Malware softwares, and AI**
+- 👯 I’m looking to collaborate on projects to do with **Network programming, web development and AI**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
