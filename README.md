@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moses</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-https://www.google.com/search?q=animated+hackers+gif&tbm=isch&ved=2ahUKEwi30-297pWBAxWBpycCHUI_AkYQ2-cCegQIABAA&oq=animated+hackers+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMggIABAFEAcQHjIICAAQCBAHEB46BAgjECdQ1AdY9CBgqCNoAHAAeACAAZ4DiAGdG5IBBzItMS44LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=DmD4ZLeUN4HPnsEPwv6IsAQ&bih=656&biw=1292&client=ubuntu-sn&hs=pTF#imgrc=ETC0k1vVP0PANM
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesgitonga&label=Profile%20views&color=0e75b6&style=flat" alt="mosesgitonga" /> </p>
+<p align="left"> <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="mosesgitonga" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosesgitonga" alt="mosesgitonga" /></a> </p>
 
