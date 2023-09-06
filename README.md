@@ -27,7 +27,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-  <p align="left"> <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="mosesgitonga" /> </p>
+  <p align="left"> <img src="https://i.gifer.com/6tXM.gif" alt="mosesgitonga" /> </p>
+  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosesgitonga&show_icons=true&locale=en&layout=compact" alt="mosesgitonga" /></p>
