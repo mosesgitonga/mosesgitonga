@@ -3,8 +3,8 @@
 
 <h1 align="center">ROOT</h1>
 <h3 align="center"> root</h3>
-
-<p align="centre"> <img src="https://cdn.sci.esa.int/documents/33622/35366/1567218431738-Herschel_dmdistro_410.gif" alt="mosesgitonga" /> </p>
+<p align="left"> <img src="https://cdn.sci.esa.int/documents/33622/35366/1567218431738-Herschel_dmdistro_410.gif" alt="mosesgitonga" /> </p>
+<p align="right"> <img src="https://cdn.sci.esa.int/documents/33622/35366/1567218431738-Herschel_dmdistro_410.gif" alt="mosesgitonga" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosesgitonga" alt="mosesgitonga" /></a> </p>
 
