@@ -4,7 +4,7 @@
 <h1 align="center">ROOT</h1>
 <h3 align="center"> root</h3>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.barrons.com%2Farticles%2Fartificial-intelligence-chips-technology-stocks-roundtable-74b256fd&psig=AOvVaw0692FuSzW_Y65xGa9d5dKu&ust=1701011445101000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjs8sm334IDFQAAAAAdAAAAABAS" alt="mosesgitonga" /> </p>
+<p align="left"> <img src="https://images.barrons.com/im-837658?width=940&size=1.5" alt="mosesgitonga" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosesgitonga" alt="mosesgitonga" /></a> </p>
 
