@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **software engineering**
-
-- 👯 I’m looking to collaborate on projects to do with **Network programming, web development and AI**
+- 🌱 I’m currently Learning **System Programming**
+- 
+- 👯 I’m looking to collaborate on projects to do with **System programming and web development**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **Python, C, Javascript, Bash**
+- 💬 Ask me about **Python, C, Javascript**
 
-- 📫 How to reach me **infosec947@gmail.com**
+- 📫 How to reach me **mosesgitonga200@gmail.com**
 
 
 <p align="left"> <img src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.gif" alt="mosesgitonga"/> </p>
