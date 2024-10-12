@@ -1,8 +1,8 @@
 
 
 
-<h1 align="center">ROOT</h1>
-<h3 align="center"> root</h3>
+<h1 align="center">Moses Gitonga</h1>
+<h3 align="center">Moses Gitonga</h3>
 <p align="left"> <img src="https://cdn.sci.esa.int/documents/33622/35366/1567218431738-Herschel_dmdistro_410.gif" alt="mosesgitonga" /> </p>
 <p align="right"> <img src="https://cdn.sci.esa.int/documents/33622/35366/1567218431738-Herschel_dmdistro_410.gif" alt="mosesgitonga" /> </p>
 
