@@ -21,11 +21,6 @@
   </samp>
 </p>
 
-<p align="center">
- <a href="https://moses-gitonga.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mosesgitonga" />
- </a>
-</p>
 <br />
 
 <!-- About Section -->
