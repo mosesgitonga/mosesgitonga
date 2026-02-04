@@ -8,15 +8,13 @@
 <!-- Intro -->
 <h2 align="center">
   <samp>
-    > Hello, I’m <b><a href="https://mosesgitonga.vercel.app/" target="_blank">Moses Gitonga</a></b>
+    > Hi, I’m <b><a href="https://mosesgitonga.vercel.app/" target="_blank">Moses Gitonga</a></b>
   </samp>
 </h2>
 
 <p align="center">
   <samp>
-    Backend Engineer • Python-first • Systems thinker  
-    <br />
-    Building scalable, secure, and boring-reliable backend systems
+    Backend Engineer • Python frameworks • building practical and reliable backend systems
   </samp>
 </p>
 
@@ -24,24 +22,22 @@
 
 ## About Me
 
-✌️ &emsp; Software Engineer specializing in **backend architecture and APIs**  
-🧠 &emsp; I focus on **performance, correctness, and maintainability**  
-⚙️ &emsp; Experienced with **Django, FastAPI, Flask**, and modern backend stacks  
-📧 &emsp; Reach me at **mosesgitonga200@gmail.com**
+I’m a Software Engineer focused on backend development. I build and maintain systems that are **scalable, secure, and easy to work with**.  
 
-> I believe backend systems should be like air traffic control:  
-> invisible when working, catastrophic when poorly designed.
+I work primarily with **Python frameworks** like Django, Flask, and FastAPI. I also have experience with Node.js when needed.  
+
+You can reach me at **mosesgitonga200@gmail.com**.
 
 ---
 
 ## Tech Stack
 
-### Core Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![TypeScript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 
-### Backend & APIs
+### Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -53,13 +49,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Frontend (when needed)
+### Frontend (basic use)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Tooling & Workflow
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
@@ -81,7 +77,7 @@
 
 ---
 
-## 🏆 Achievements
+## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=mosesgitonga&theme=dark&margin-w=8)
 
@@ -92,3 +88,5 @@
     <img src="https://img.shields.io/badge/View%20All%20Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+
