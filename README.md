@@ -8,7 +8,7 @@
 <!-- Intro -->
 <h2 align="center">
   <samp>
-    > Hi, I’m <b><a href="https://mosesgitonga.vercel.app/" target="_blank">Moses Gitonga</a></b>
+    > Hi, I’m  Moses Gitonga</b>
   </samp>
 </h2>
 
